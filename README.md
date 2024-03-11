@@ -196,6 +196,8 @@ print(le.inverse_transform(x_single_prediction))
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
 
+![image](https://github.com/RoopakCS/nn-classification/assets/139228922/1f7d289e-348e-4474-8309-54fc09429ff5)
+
 ### Classification Report
 
 ![image](https://github.com/RoopakCS/nn-classification/assets/139228922/c7e4adfa-34ca-4b90-ac65-3ca22ea481b2)
